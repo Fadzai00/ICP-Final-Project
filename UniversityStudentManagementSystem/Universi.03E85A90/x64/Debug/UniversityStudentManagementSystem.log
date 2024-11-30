@@ -1,0 +1,36 @@
+﻿  Login.cpp
+C:\Users\fadza\source\repos\UniversityStudentManagementSystem\Login.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Login.cpp')
+  
+C:\Users\fadza\source\repos\UniversityStudentManagementSystem\Login.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Login.cpp')
+  
+C:\Users\fadza\source\repos\UniversityStudentManagementSystem\Login.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Login.cpp')
+  
+C:\Users\fadza\source\repos\UniversityStudentManagementSystem\Login.h(143,114): error C2039: 'linkLabel1_LinkClicked': is not a member of 'UniversityStudentManagementSystem::Login'
+  (compiling source file 'Login.cpp')
+      C:\Users\fadza\source\repos\UniversityStudentManagementSystem\Login.h(22,19):
+      see declaration of 'UniversityStudentManagementSystem::Login'
+  
+C:\Users\fadza\source\repos\UniversityStudentManagementSystem\Login.h(143,114): error C2065: 'linkLabel1_LinkClicked': undeclared identifier
+  (compiling source file 'Login.cpp')
+  
+C:\Users\fadza\source\repos\UniversityStudentManagementSystem\Login.h(143,99): error C3924: error in argument #2 of delegate constructor call 'System::Windows::Forms::LinkLabelLinkClickedEventHandler':
+  (compiling source file 'Login.cpp')
+      C:\Users\fadza\source\repos\UniversityStudentManagementSystem\Login.h(143,99):
+      pointer to member function expected
+  
+  Student.cpp
+C:\Users\fadza\source\repos\UniversityStudentManagementSystem\Student.cpp(10,24): error C2504: 'Users': base class undefined
+C:\Users\fadza\source\repos\UniversityStudentManagementSystem\Student.cpp(14,14): error C3265: cannot declare a managed 'DOB' in an unmanaged 'Student'
+      C:\Users\fadza\source\repos\UniversityStudentManagementSystem\Student.cpp(14,14):
+      only simple value types are allowed
+  
+C:\Users\fadza\source\repos\UniversityStudentManagementSystem\Student.cpp(17,14): error C3265: cannot declare a managed 'enrollDate' in an unmanaged 'Student'
+      C:\Users\fadza\source\repos\UniversityStudentManagementSystem\Student.cpp(17,14):
+      only simple value types are allowed
+  
+C:\Users\fadza\source\repos\UniversityStudentManagementSystem\Student.cpp(22,30): error C2440: 'initializing': cannot convert from 'const System::DateTime' to 'cli::interior_ptr<System::DateTime>'
+  Users.cpp
+  Generating Code...

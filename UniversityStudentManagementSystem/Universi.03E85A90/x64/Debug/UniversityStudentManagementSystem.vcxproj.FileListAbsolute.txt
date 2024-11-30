@@ -1,0 +1,8 @@
+C:\Users\fadza\source\repos\UniversityStudentManagementSystem\Universi.03E85A90\x64\Debug\UniversityStudentManagementSystem.vcxproj.AssemblyReference.cache
+C:\Users\fadza\source\repos\UniversityStudentManagementSystem\Universi.03E85A90\x64\Debug\UniversityStudentManagementSystem.Admin.resources
+C:\Users\fadza\source\repos\UniversityStudentManagementSystem\Universi.03E85A90\x64\Debug\UniversityStudentManagementSystem.Faculty.resources
+C:\Users\fadza\source\repos\UniversityStudentManagementSystem\Universi.03E85A90\x64\Debug\UniversityStudentManagementSystem.Login.resources
+C:\Users\fadza\source\repos\UniversityStudentManagementSystem\Universi.03E85A90\x64\Debug\UniversityStudentManagementSystem.Student.resources
+C:\Users\fadza\source\repos\UniversityStudentManagementSystem\Universi.03E85A90\x64\Debug\UniversityStudentManagementSystem.vcxproj.GenerateResource.cache
+C:\Users\fadza\source\repos\UniversityStudentManagementSystem\x64\Debug\mysql.data.dll
+C:\Users\fadza\source\repos\UniversityStudentManagementSystem\Universi.03E85A90\x64\Debug\Universi.298B1C7C.Up2Date
